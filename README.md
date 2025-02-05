@@ -41,4 +41,4 @@ cd frontend
 npm start
 ```
 
-L'application devrait maintenant être accessible à l'adresse : `http://localhost:5000`
+L'application devrait maintenant être accessible à l'adresse : `http://localhost:3000`
