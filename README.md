@@ -4,7 +4,7 @@
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/LP75/projet-test.git
+git clone https://github.com/LP75/test-projet.git
 ```
 
 2. Installation des dépendances du backend :
